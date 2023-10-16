@@ -1,0 +1,6 @@
+folder_in: '/home/taya/folder_in/'
+folder_out: '/home/taya/folder_out/'
+folder_ext: '/home/taya/folder_ext/'
+count: 5
+bs: 1M
+type: 7z
