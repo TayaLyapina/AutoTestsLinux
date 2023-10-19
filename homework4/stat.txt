@@ -1,0 +1,52 @@
+ime = 05:17:29.268093, files_count = 5, file_size = 1M, cpu_stat = 2.71 2.26 1.60 7/675 6936
+
+time = 05:17:32.698043, files_count = 5, file_size = 1M, cpu_stat = 3.13 2.36 1.64 3/699 7089
+
+time = 05:17:35.220612, files_count = 5, file_size = 1M, cpu_stat = 3.13 2.36 1.64 6/720 7245
+
+time = 05:17:37.216135, files_count = 5, file_size = 1M, cpu_stat = 3.12 2.37 1.64 3/728 7378
+
+time = 05:17:39.371661, files_count = 5, file_size = 1M, cpu_stat = 3.12 2.37 1.64 2/726 7503
+
+time = 05:17:41.176770, files_count = 5, file_size = 1M, cpu_stat = 3.19 2.40 1.66 5/723 7628
+
+time = 05:17:42.947021, files_count = 5, file_size = 1M, cpu_stat = 3.19 2.40 1.66 6/723 7753
+
+time = 05:17:45.171267, files_count = 5, file_size = 1M, cpu_stat = 3.19 2.40 1.66 3/722 7920
+
+time = 05:19:37.608603, files_count = 5, file_size = 1M, cpu_stat = 2.10 2.10 1.62 7/679 8233
+
+time = 05:19:46.033297, files_count = 5, file_size = 1M, cpu_stat = 2.39 2.16 1.65 3/711 8697
+
+time = 05:19:56.148948, files_count = 5, file_size = 1M, cpu_stat = 2.57 2.20 1.67 3/697 9371
+
+time = 05:20:08.275208, files_count = 5, file_size = 1M, cpu_stat = 2.78 2.26 1.70 2/702 10234
+
+time = 05:20:20.119272, files_count = 5, file_size = 1M, cpu_stat = 2.58 2.24 1.69 2/698 11077
+
+time = 05:20:29.933141, files_count = 5, file_size = 1M, cpu_stat = 2.71 2.28 1.71 3/693 11750
+
+time = 05:20:37.391593, files_count = 5, file_size = 1M, cpu_stat = 2.91 2.34 1.74 4/692 12214
+
+time = 05:20:42.243761, files_count = 5, file_size = 1M, cpu_stat = 3.00 2.36 1.75 4/691 12633
+
+time = 05:20:46.453144, files_count = 5, file_size = 1M, cpu_stat = 2.92 2.36 1.75 7/691 12802
+
+time = 05:24:42.024740, files_count = 5, file_size = 1M, cpu_stat = 1.92 1.72 1.60 3/675 13113
+
+time = 05:24:50.604022, files_count = 5, file_size = 1M, cpu_stat = 1.85 1.71 1.60 5/707 13660
+
+time = 05:24:59.754534, files_count = 5, file_size = 1M, cpu_stat = 1.87 1.72 1.60 5/693 14333
+
+time = 05:25:18.286071, files_count = 5, file_size = 1M, cpu_stat = 3.00 1.99 1.70 3/692 15175
+
+time = 05:25:30.227491, files_count = 5, file_size = 1M, cpu_stat = 2.92 2.01 1.70 2/691 16016
+
+time = 05:25:40.213971, files_count = 5, file_size = 1M, cpu_stat = 3.01 2.06 1.72 3/691 16690
+
+time = 05:25:47.603998, files_count = 5, file_size = 1M, cpu_stat = 3.30 2.16 1.76 2/691 17153
+
+time = 05:25:56.767120, files_count = 5, file_size = 1M, cpu_stat = 3.26 2.18 1.77 2/691 17700
+
+time = 05:26:00.785069, files_count = 5, file_size = 1M, cpu_stat = 3.26 2.18 1.77 5/691 17869
+

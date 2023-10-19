@@ -1,0 +1,10 @@
+окт 19 06:09:12 taya-VirtualBox snapd-desktop-i[20162]: Detected new session 283 at /org/freedesktop/login1/session/_3283
+окт 19 06:09:12 taya-VirtualBox snapd-desktop-i[20162]: Detected new session 284 at /org/freedesktop/login1/session/_3284
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+окт 19 06:09:40 taya-VirtualBox snapd-desktop-i[20710]: Detected new session 298 at /org/freedesktop/login1/session/_3298
+окт 19 06:09:40 taya-VirtualBox snapd-desktop-i[20710]: Detected new session 299 at /org/freedesktop/login1/session/_3299
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.

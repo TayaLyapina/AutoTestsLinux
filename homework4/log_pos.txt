@@ -1,0 +1,144 @@
+окт 19 05:17:43 taya-VirtualBox snapd-desktop-i[6941]: Detected new session 32 at /org/freedesktop/login1/session/_332
+окт 19 05:17:43 taya-VirtualBox snapd-desktop-i[6941]: Detected new session 33 at /org/freedesktop/login1/session/_333
+окт 19 05:17:44 taya-VirtualBox snapd-desktop-i[6941]: Detected new session 34 at /org/freedesktop/login1/session/_334
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+окт 19 05:19:50 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 58 at /org/freedesktop/login1/session/_358
+окт 19 05:19:53 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 59 at /org/freedesktop/login1/session/_359
+окт 19 05:19:53 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 60 at /org/freedesktop/login1/session/_360
+окт 19 05:19:54 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 61 at /org/freedesktop/login1/session/_361
+окт 19 05:19:54 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 62 at /org/freedesktop/login1/session/_362
+окт 19 05:19:55 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 63 at /org/freedesktop/login1/session/_363
+окт 19 05:19:55 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 64 at /org/freedesktop/login1/session/_364
+окт 19 05:19:55 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 65 at /org/freedesktop/login1/session/_365
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+окт 19 05:20:01 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 75 at /org/freedesktop/login1/session/_375
+окт 19 05:20:01 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 76 at /org/freedesktop/login1/session/_376
+окт 19 05:20:02 taya-VirtualBox pulseaudio[8046]: GetManagedObjects() failed: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+окт 19 05:20:04 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 77 at /org/freedesktop/login1/session/_377
+окт 19 05:20:04 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 78 at /org/freedesktop/login1/session/_378
+окт 19 05:20:05 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 79 at /org/freedesktop/login1/session/_379
+окт 19 05:20:05 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 80 at /org/freedesktop/login1/session/_380
+окт 19 05:20:06 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 81 at /org/freedesktop/login1/session/_381
+окт 19 05:20:06 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 82 at /org/freedesktop/login1/session/_382
+окт 19 05:20:07 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 83 at /org/freedesktop/login1/session/_383
+окт 19 05:20:07 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 84 at /org/freedesktop/login1/session/_384
+окт 19 05:20:08 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 85 at /org/freedesktop/login1/session/_385
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+окт 19 05:20:13 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 96 at /org/freedesktop/login1/session/_396
+окт 19 05:20:16 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 97 at /org/freedesktop/login1/session/_397
+окт 19 05:20:16 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 98 at /org/freedesktop/login1/session/_398
+окт 19 05:20:16 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 99 at /org/freedesktop/login1/session/_399
+окт 19 05:20:17 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 100 at /org/freedesktop/login1/session/_3100
+окт 19 05:20:17 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 101 at /org/freedesktop/login1/session/_3101
+окт 19 05:20:18 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 102 at /org/freedesktop/login1/session/_3102
+окт 19 05:20:18 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 103 at /org/freedesktop/login1/session/_3103
+окт 19 05:20:19 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 104 at /org/freedesktop/login1/session/_3104
+окт 19 05:20:19 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 105 at /org/freedesktop/login1/session/_3105
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+окт 19 05:20:24 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 113 at /org/freedesktop/login1/session/_3113
+окт 19 05:20:24 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 114 at /org/freedesktop/login1/session/_3114
+окт 19 05:20:27 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 115 at /org/freedesktop/login1/session/_3115
+окт 19 05:20:27 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 116 at /org/freedesktop/login1/session/_3116
+окт 19 05:20:28 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 117 at /org/freedesktop/login1/session/_3117
+окт 19 05:20:28 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 118 at /org/freedesktop/login1/session/_3118
+окт 19 05:20:28 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 119 at /org/freedesktop/login1/session/_3119
+окт 19 05:20:29 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 120 at /org/freedesktop/login1/session/_3120
+окт 19 05:20:29 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 121 at /org/freedesktop/login1/session/_3121
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+окт 19 05:20:33 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 129 at /org/freedesktop/login1/session/_3129
+окт 19 05:20:34 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 130 at /org/freedesktop/login1/session/_3130
+окт 19 05:20:36 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 131 at /org/freedesktop/login1/session/_3131
+окт 19 05:20:37 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 132 at /org/freedesktop/login1/session/_3132
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+окт 19 05:20:43 taya-VirtualBox snapd-desktop-i[8203]: Detected new session 145 at /org/freedesktop/login1/session/_3145
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+окт 19 05:24:47 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 160 at /org/freedesktop/login1/session/_3160
+окт 19 05:24:49 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 161 at /org/freedesktop/login1/session/_3161
+окт 19 05:24:50 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 162 at /org/freedesktop/login1/session/_3162
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+окт 19 05:24:54 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 170 at /org/freedesktop/login1/session/_3170
+окт 19 05:24:54 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 171 at /org/freedesktop/login1/session/_3171
+окт 19 05:24:56 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 172 at /org/freedesktop/login1/session/_3172
+окт 19 05:24:57 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 173 at /org/freedesktop/login1/session/_3173
+окт 19 05:24:57 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 174 at /org/freedesktop/login1/session/_3174
+окт 19 05:24:57 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 175 at /org/freedesktop/login1/session/_3175
+окт 19 05:24:58 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 176 at /org/freedesktop/login1/session/_3176
+окт 19 05:24:58 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 177 at /org/freedesktop/login1/session/_3177
+окт 19 05:24:59 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 178 at /org/freedesktop/login1/session/_3178
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+окт 19 05:25:09 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 189 at /org/freedesktop/login1/session/_3189
+окт 19 05:25:12 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 190 at /org/freedesktop/login1/session/_3190
+окт 19 05:25:13 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 191 at /org/freedesktop/login1/session/_3191
+окт 19 05:25:13 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 192 at /org/freedesktop/login1/session/_3192
+окт 19 05:25:14 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 193 at /org/freedesktop/login1/session/_3193
+окт 19 05:25:15 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 194 at /org/freedesktop/login1/session/_3194
+окт 19 05:25:16 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 195 at /org/freedesktop/login1/session/_3195
+окт 19 05:25:16 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 196 at /org/freedesktop/login1/session/_3196
+окт 19 05:25:17 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 197 at /org/freedesktop/login1/session/_3197
+окт 19 05:25:17 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 198 at /org/freedesktop/login1/session/_3198
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+окт 19 05:25:23 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 208 at /org/freedesktop/login1/session/_3208
+окт 19 05:25:23 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 209 at /org/freedesktop/login1/session/_3209
+окт 19 05:25:26 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 210 at /org/freedesktop/login1/session/_3210
+окт 19 05:25:27 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 211 at /org/freedesktop/login1/session/_3211
+окт 19 05:25:27 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 212 at /org/freedesktop/login1/session/_3212
+окт 19 05:25:28 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 213 at /org/freedesktop/login1/session/_3213
+окт 19 05:25:28 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 214 at /org/freedesktop/login1/session/_3214
+окт 19 05:25:28 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 215 at /org/freedesktop/login1/session/_3215
+окт 19 05:25:29 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 216 at /org/freedesktop/login1/session/_3216
+окт 19 05:25:29 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 217 at /org/freedesktop/login1/session/_3217
+окт 19 05:25:30 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 218 at /org/freedesktop/login1/session/_3218
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+окт 19 05:25:34 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 226 at /org/freedesktop/login1/session/_3226
+окт 19 05:25:34 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 227 at /org/freedesktop/login1/session/_3227
+окт 19 05:25:37 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 228 at /org/freedesktop/login1/session/_3228
+окт 19 05:25:37 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 229 at /org/freedesktop/login1/session/_3229
+окт 19 05:25:38 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 230 at /org/freedesktop/login1/session/_3230
+окт 19 05:25:38 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 231 at /org/freedesktop/login1/session/_3231
+окт 19 05:25:38 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 232 at /org/freedesktop/login1/session/_3232
+окт 19 05:25:39 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 233 at /org/freedesktop/login1/session/_3233
+окт 19 05:25:40 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 234 at /org/freedesktop/login1/session/_3234
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+окт 19 05:25:44 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 242 at /org/freedesktop/login1/session/_3242
+окт 19 05:25:44 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 243 at /org/freedesktop/login1/session/_3243
+окт 19 05:25:46 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 244 at /org/freedesktop/login1/session/_3244
+окт 19 05:25:47 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 245 at /org/freedesktop/login1/session/_3245
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+окт 19 05:25:53 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 256 at /org/freedesktop/login1/session/_3256
+окт 19 05:25:56 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 257 at /org/freedesktop/login1/session/_3257
+окт 19 05:25:56 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 258 at /org/freedesktop/login1/session/_3258
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+окт 19 05:25:57 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 259 at /org/freedesktop/login1/session/_3259
+окт 19 05:25:57 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 260 at /org/freedesktop/login1/session/_3260
+окт 19 05:25:57 taya-VirtualBox snapd-desktop-i[13071]: Detected new session 261 at /org/freedesktop/login1/session/_3261
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
